@@ -163,3 +163,8 @@ public class GameField extends JPanel implements ActionListener{
         }
     }
 }
+
+
+/*
+it's ok
+ */
