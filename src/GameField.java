@@ -132,6 +132,8 @@ public class GameField extends JPanel implements ActionListener{
         }
         repaint();
     }
+
+    //move mouse
     class FieldKeyListener extends KeyAdapter{
         @Override
         public void keyPressed(KeyEvent e) {
